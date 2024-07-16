@@ -5,10 +5,7 @@
 
 Lo scopo del progetto è scrivere un parser (tramite grammatiche context-free) di file in formato json. Il contenuto del file deve essere salvato in un container C++ che permetta l’accesso (tramite iteratori e overloading di operatori) del contenuto letto dal file json.
 
-Nelle due sezioni seguenti vengono introdotti il formato json e la descrizione del container da realizzare. 
-
-
-**Nota**: se trovate imprecisioni/errori o volete un chiarimento su parti di questo documento o di json.hpp, aprite una GitHub issue (pulsante "issues" in alto) citando la linea del file in questione (se il commento riguarda una linea particolare del codice o di questo README). Per citare una particolare linea di README.md, aprite il file (cliccando su README.md in alto), rendete visibili le linee (pulsante `<>` "display the source blob"), selezionate i numeri di linea interessati -> cliccate i tre puntini -> "copy permalink". A questo punto, potete incollare il link copiato nella issue. Analogo per json.hpp (in questo caso i numeri di linea sono immediatamente visibili).
+Nelle due sezioni seguenti vengono introdotti il formato json e la descrizione del container da realizzare.
 
 ## 1. Formato json
 
